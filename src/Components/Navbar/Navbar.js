@@ -14,7 +14,7 @@ const styles = {
     },
     navLinkStyle: {
         textDecoration: 'none',
-        color: 'white'
+        color: 'red'
     },
     signupAndSignin: {
         marginLeft: '10px'
